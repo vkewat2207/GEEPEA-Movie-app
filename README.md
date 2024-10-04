@@ -1,3 +1,8 @@
+ Live Website
+
+ https://vingee-movie-app.vercel.app
+
+
 Description:
 
 In this movie app,I have built it using  the principle of reactjs including the javascript fundamental, component, props, state management, react lifecycle, conditional rendering and redux-toolkit intergration. Moreover, you will explore into custom hooks for enhanced functionality. Utilizing tailwind css for styling and react router dom for smooth navigation between pages.
