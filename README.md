@@ -5,7 +5,8 @@ In this movie app,I have built it using  the principle of reactjs including the 
 https://drive.google.com/file/d/1xQwapBMnWtTEfbtPdEGt5IjeDAsIHruc/view?usp=drive_link
 
 
-![Uploading thumbnail.png…]()
+
+<img width="959" alt="thumbnail" src="https://github.com/user-attachments/assets/f97bf892-b9da-4b2e-97d1-877ed1739646">
 
 REACT_APP_ACCESS_TOKEN = < The Movie Database Access Token >
 
