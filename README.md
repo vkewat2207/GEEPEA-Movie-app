@@ -2,10 +2,10 @@ Description:
 
 In this movie app,I have built it using  the principle of reactjs including the javascript fundamental, component, props, state management, react lifecycle, conditional rendering and redux-toolkit intergration. Moreover, you will explore into custom hooks for enhanced functionality. Utilizing tailwind css for styling and react router dom for smooth navigation between pages.
 
-https://drive.google.com/file/d/1MjH7JUKEzw9oFbQeQqA0Kdxehk7Ga_4y/view?usp=drive_link
+https://drive.google.com/file/d/1xQwapBMnWtTEfbtPdEGt5IjeDAsIHruc/view?usp=drive_link
 
-![thumnail (1)](https://github.com/user-attachments/assets/f030d179-5112-4a1a-bebd-5f825c019cfc)
 
+![Uploading thumbnail.png…]()
 
 REACT_APP_ACCESS_TOKEN = < The Movie Database Access Token >
 
